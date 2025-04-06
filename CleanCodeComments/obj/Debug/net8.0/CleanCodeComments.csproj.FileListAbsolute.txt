@@ -1,0 +1,16 @@
+C:\Users\Sara\Documents\Projectes-Git\CleanComments\CleanCodeComments\CleanCodeComments\bin\Debug\net8.0\CleanCodeComments.exe
+C:\Users\Sara\Documents\Projectes-Git\CleanComments\CleanCodeComments\CleanCodeComments\bin\Debug\net8.0\Prova.cs
+C:\Users\Sara\Documents\Projectes-Git\CleanComments\CleanCodeComments\CleanCodeComments\bin\Debug\net8.0\CleanCodeComments.deps.json
+C:\Users\Sara\Documents\Projectes-Git\CleanComments\CleanCodeComments\CleanCodeComments\bin\Debug\net8.0\CleanCodeComments.runtimeconfig.json
+C:\Users\Sara\Documents\Projectes-Git\CleanComments\CleanCodeComments\CleanCodeComments\bin\Debug\net8.0\CleanCodeComments.dll
+C:\Users\Sara\Documents\Projectes-Git\CleanComments\CleanCodeComments\CleanCodeComments\bin\Debug\net8.0\CleanCodeComments.pdb
+C:\Users\Sara\Documents\Projectes-Git\CleanComments\CleanCodeComments\CleanCodeComments\obj\Debug\net8.0\CleanCodeComments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sara\Documents\Projectes-Git\CleanComments\CleanCodeComments\CleanCodeComments\obj\Debug\net8.0\CleanCodeComments.AssemblyInfoInputs.cache
+C:\Users\Sara\Documents\Projectes-Git\CleanComments\CleanCodeComments\CleanCodeComments\obj\Debug\net8.0\CleanCodeComments.AssemblyInfo.cs
+C:\Users\Sara\Documents\Projectes-Git\CleanComments\CleanCodeComments\CleanCodeComments\obj\Debug\net8.0\CleanCodeComments.csproj.CoreCompileInputs.cache
+C:\Users\Sara\Documents\Projectes-Git\CleanComments\CleanCodeComments\CleanCodeComments\obj\Debug\net8.0\CleanCodeComments.sourcelink.json
+C:\Users\Sara\Documents\Projectes-Git\CleanComments\CleanCodeComments\CleanCodeComments\obj\Debug\net8.0\CleanCodeComments.dll
+C:\Users\Sara\Documents\Projectes-Git\CleanComments\CleanCodeComments\CleanCodeComments\obj\Debug\net8.0\refint\CleanCodeComments.dll
+C:\Users\Sara\Documents\Projectes-Git\CleanComments\CleanCodeComments\CleanCodeComments\obj\Debug\net8.0\CleanCodeComments.pdb
+C:\Users\Sara\Documents\Projectes-Git\CleanComments\CleanCodeComments\CleanCodeComments\obj\Debug\net8.0\CleanCodeComments.genruntimeconfig.cache
+C:\Users\Sara\Documents\Projectes-Git\CleanComments\CleanCodeComments\CleanCodeComments\obj\Debug\net8.0\ref\CleanCodeComments.dll
